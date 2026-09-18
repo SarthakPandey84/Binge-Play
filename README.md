@@ -13,6 +13,8 @@
 
 **BingePlay** is a comprehensive data analytics project focused on a fictional streaming platform. This repository contains data analysis, metrics extraction, and business intelligence queries designed to answer 12 critical business questions about user engagement, revenue generation, content performance, and customer churn.
 
+**Dataset:** You can download the SQL dataset used for this analysis [here](https://drive.google.com/file/d/1xifptnaD3xbYdNc0i7otqDsl03SL5nPs/view?usp=sharing).
+
 By leveraging advanced SQL techniques—including Common Table Expressions (CTEs), Window Functions, and complex JOINs—this project transforms raw database records into strategic business insights.
 
 ---
